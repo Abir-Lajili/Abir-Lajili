@@ -1,4 +1,4 @@
-<h1 color="red">Hi 👋 My name is Abir Lajili </h1>
+<h1 color="red" Style="color:red">Hi 👋 My name is Abir Lajili </h1>
 ============================
 
 Software Developer
